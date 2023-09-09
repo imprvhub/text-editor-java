@@ -5,6 +5,7 @@ La aplicación permite buscar archivos utilizando palabras clave, nombres espec�
 
 Ejemplos de uso:
 Regex - https://github.com/imprvhub/text-editor-java/blob/main/Regex%20Example%20Usage.gif
+
 Save/Upload - https://github.com/imprvhub/text-editor-java/blob/main/Save%3ALoad%20Example%20Usage.gif
 
 Instalación:
@@ -19,6 +20,7 @@ The application allows you to search for files using keywords, specific names, o
 
 Example Usage:
 Regex - https://github.com/imprvhub/text-editor-java/blob/main/Regex%20Example%20Usage.gif
+
 Save/Upload - https://github.com/imprvhub/text-editor-java/blob/main/Save%3ALoad%20Example%20Usage.gif
 
 Installation:
